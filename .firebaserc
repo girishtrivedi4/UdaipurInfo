@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tourudaipur-8b419": {
+      "hosting": {
+        "UdaipurInfo": [
+          "tourudaipur-8b419"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tourudaipur-8b419"
+  }
+}
